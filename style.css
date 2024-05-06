@@ -1,4 +1,10 @@
 .test {
   background-color: blanchedalmond;
   text-decoration: underline;
+  margin-bottom: 10px;
+}
+
+.test2 {
+  background-color: blanchedalmond;
+  text-decoration: underline;
 }
